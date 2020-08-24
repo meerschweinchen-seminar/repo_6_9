@@ -9,16 +9,34 @@
         "test:coverage": "npm test -- --coverage",
         "test": "jest"
     },
+    
     "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
     "license": "MIT",
     "dependencies": {
- 
+          "harp": "0.30.0",
+          "remarkable": "2.0.1",
+          "buttle": "1.1.0",
+          "jvminstall": "1.1.0",
+          "fibjs": "1.1.0",
+          "curses": "1.0.1",
+          "poco": "1.6.0",
+          "massif": "1.0.1",
+          "ipip": "4.1.0",
+          "robot-js": "4.1.0"
     },
-    "devDependencies": {
 
+    "devDependencies": {
+          "harp": "0.30.0",
+          "remarkable": "2.0.1",
+          "buttle": "1.1.0",
+          "jvminstall": "1.1.0",
+          "fibjs": "1.1.0",
+          "curses": "1.0.1",
+          "poco": "1.6.0",
+          "massif": "1.0.1",
+          "ipip": "4.1.0",
+          "robot-js": "4.1.0"
     },
-     
-    
     "repository": {
         "type": "git",
         "url": "https://github.com/adriano-di-giovanni/node-df.git"
